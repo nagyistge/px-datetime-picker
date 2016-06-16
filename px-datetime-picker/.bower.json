@@ -1,0 +1,39 @@
+{
+  "name": "px-datetime-picker",
+  "version": "0.0.2",
+  "main": [
+    "px-datetime-picker.html"
+  ],
+  "ignore": [
+    ".*",
+    "npm-debug.log",
+    "Gruntfile.js",
+    "sass",
+    "bower_components",
+    "node_modules",
+    "test"
+  ],
+  "dependencies": {
+    "polymer": "^1.5.0",
+    "px-theme": "~0.8.0",
+    "px-datetime-field": "~0.3.0",
+    "px-calendar-picker": "~0.2.0",
+    "px-datetime-common": "~0.4.0",
+    "iron-a11y-keys-behavior": "PolymerElements/iron-a11y-keys-behavior#~1.1.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#~v1.1.6",
+    "px-starter-kit-design": "https://github.com/PredixDev/px-starter-kit-design.git#~0.5.5"
+  },
+  "homepage": "https://github.com/PredixDev/px-datetime-picker",
+  "_release": "0.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.2",
+    "commit": "90af8f41346cf17d0b03f2b5e6791a62e57cb2d6"
+  },
+  "_source": "https://github.com/PredixDev/px-datetime-picker.git",
+  "_target": "^0.0.2",
+  "_originalSource": "px-datetime-picker",
+  "_direct": true
+}
