@@ -1,6 +1,6 @@
 {
   "name": "px-calendar-picker",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "main": [
     "px-calendar-picker.html"
   ],
@@ -26,11 +26,11 @@
     "px-starter-kit-design": "https://github.com/PredixDev/px-starter-kit-design.git#~0.4.9"
   },
   "homepage": "https://github.com/PredixDev/px-calendar-picker",
-  "_release": "0.2.2",
+  "_release": "0.2.3",
   "_resolution": {
     "type": "version",
-    "tag": "v0.2.2",
-    "commit": "6c0e24401a81c90dd4a49a9d4712a6d649d12554"
+    "tag": "v0.2.3",
+    "commit": "5143b2d45056ffa0f091f0e11d0ec809994865a3"
   },
   "_source": "https://github.com/PredixDev/px-calendar-picker.git",
   "_target": "~0.2.0",

@@ -24,8 +24,5 @@
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#~v1.1.6",
     "px-starter-kit-design": "https://github.com/PredixDev/px-starter-kit-design.git#~0.5.5"
-  },
-  "resolutions": {
-    "px-datetime-picker": "^0.0.3"
   }
 }
