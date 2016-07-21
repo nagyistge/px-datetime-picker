@@ -1,3 +1,11 @@
+v0.1.2
+==================
+* Added blockPastDates and blockFutureDates to px-datetime-field
+
+v0.1.1
+==================
+* Added new demos
+
 v0.1.0
 ==================
 * Added blockPastDates
