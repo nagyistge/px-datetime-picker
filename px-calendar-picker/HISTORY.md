@@ -1,6 +1,14 @@
+v0.3.12
+==================
+* added readme image and link 
+
+v0.3.11
+==================
+* added github link
+
 v0.3.10
 ==================
-* updated gh-pages script to vulcanize 
+* updated gh-pages script to vulcanize
 
 v0.3.9
 ==================
