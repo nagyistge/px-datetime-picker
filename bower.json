@@ -1,6 +1,6 @@
 {
   "name": "px-datetime-picker",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "main": [
     "px-datetime-picker.html"
   ],
@@ -44,10 +44,6 @@
     "px-actionable-text-icons-design": "^0.0.3",
     "px-code-design": "~0.2.11",
     "px-dropdown": "^0.10.2",
-    "px-polymer-font-awesome": "^0.1.8"
-  },
-  "resolutions": {
-    "px-viewport-design": "~0.4.1",
-    "px-clipboard": "^0.0.11"
+    "px-polymer-font-awesome":"^0.1.8"
   }
 }
