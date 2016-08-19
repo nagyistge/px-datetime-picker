@@ -51,7 +51,7 @@
   "_resolution": {
     "type": "version",
     "tag": "v0.1.7",
-    "commit": "9720022583ec36ba3bc39b32ba2f2be7c1418da4"
+    "commit": "05f62957734d9e8099199aa9c64c017c5a629482"
   },
   "_source": "https://github.com/PredixDev/px-datetime-picker.git",
   "_target": "^0.1.0",
