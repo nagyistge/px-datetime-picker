@@ -1,0 +1,35 @@
+{
+  "name": "px-clearfix-design",
+  "version": "0.1.7",
+  "authors": [
+    "General Electric"
+  ],
+  "description": "Simple clearfix helper for Predix Experience",
+  "main": "_trumps.clearfix.scss",
+  "keywords": [
+    "px",
+    "sass",
+    "clearfix"
+  ],
+  "homepage": "https://github.com/PredixDev/px-clearfix-design.git",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "px-functions-design": "~0.3.3"
+  },
+  "_release": "0.1.7",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.7",
+    "commit": "e7864ae0847e8bceddeec4fe21aa3b358e839ead"
+  },
+  "_source": "https://github.com/predixDev/px-clearfix-design.git",
+  "_target": "~0.1.7",
+  "_originalSource": "px-clearfix-design"
+}
