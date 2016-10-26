@@ -1,3 +1,16 @@
+v0.3.19
+=========================
+* updated to px-sass-doc#0.2.8
+
+v0.3.18
+=========================
+* Updated dependencies
+* Updated boilerplate files
+
+v0.3.17
+=========================
+* fix import statement
+
 v0.3.16
 =========================
 * update dependencies
