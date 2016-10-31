@@ -1,9 +1,18 @@
+v0.6.7
+==================
+* fixed error icon not showing up
+
+v0.6.6
+==================
+* updated entry to use px-polymer-font-awesome
+
+v0.6.5
+==================
+* Updated dependencies
+
 v0.6.4
 ==================
-* changed bower from px-moment to pxmoment, added px-polygit-imports-datetime for code pen 
-
-
-
+* changed bower from px-moment to pxmoment, added px-polygit-imports-datetime for code pen
 
 v0.5.7
 ==================
