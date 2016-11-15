@@ -1,6 +1,6 @@
 {
   "name": "px-clearfix-design",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "authors": [
     "General Electric"
   ],
@@ -26,13 +26,13 @@
   },
   "devDependencies": {
     "px-starter-kit-design": "~0.6.0",
-    "px-sass-doc": "^0.2.4"
+    "px-sass-doc": "^0.2.9"
   },
-  "_release": "0.1.11",
+  "_release": "0.1.12",
   "_resolution": {
     "type": "version",
-    "tag": "v0.1.11",
-    "commit": "bcd5fcea84163700e7ab1bfef7b2da05945bfb0e"
+    "tag": "0.1.12",
+    "commit": "c51d9e32f40c795b91f4825c25c89eb9a0290fcf"
   },
   "_source": "https://github.com/predixDev/px-clearfix-design.git",
   "_target": "~0.1.9",
