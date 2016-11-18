@@ -1,6 +1,6 @@
 {
   "name": "px-datetime-picker",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "main": [
     "px-datetime-picker.html"
   ],
@@ -43,15 +43,15 @@
     "px-headings-design": "^0.2.14",
     "px-actionable-text-icons-design": "^0.1.0",
     "px-code-design": "~0.2.11",
-    "px-dropdown": "^0.12.1",
+    "px-dropdown": "~2.0.0",
     "px-polymer-font-awesome": "^0.1.9"
   },
   "homepage": "https://github.com/PredixDev/px-datetime-picker",
-  "_release": "0.2.9",
+  "_release": "0.2.10",
   "_resolution": {
     "type": "version",
-    "tag": "v0.2.9",
-    "commit": "60ba785ee85727aa779b8d5514f1d35ab4a9dc50"
+    "tag": "v0.2.10",
+    "commit": "13e42da22033429858b9a9fbbdb3ff629406ae09"
   },
   "_source": "https://github.com/PredixDev/px-datetime-picker.git",
   "_target": "^0.2.0",
